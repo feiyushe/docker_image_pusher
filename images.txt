@@ -1,2 +1,2 @@
-alpine
-python:alpine3.19
+mysql:8.0.21
+redis:4.0
